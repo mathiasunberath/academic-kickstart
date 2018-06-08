@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -35,4 +35,5 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-
+ 
+ For a comprehensive list of my publications please refer to either my [**CV**](https://www.dropbox.com/s/ep5s8na880gyye2/cv_mathias.pdf?dl=0) or my [**Google Scholar**](https://scholar.google.de/citations?user=1bd5mdIAAAAJ&hl).
